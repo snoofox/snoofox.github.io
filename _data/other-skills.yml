@@ -1,0 +1,15 @@
+- name: Django
+  percentage: 95
+  color: info
+
+- name: Next.JS
+  percentage: 90
+  color: danger
+
+- name: Express.JS
+  percentage: 70
+  color: success
+
+- name: Tailwind
+  percentage: 80
+  color: secondary
